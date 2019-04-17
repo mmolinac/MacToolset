@@ -1,0 +1,6 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+cask "spotifree"
+cask "spotify"
+cask "vlc"

@@ -1,0 +1,7 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+brew "awscli"
+brew "azure-cli"
+brew "doctl"
+cask "google-cloud-sdk"

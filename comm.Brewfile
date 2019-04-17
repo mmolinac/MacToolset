@@ -1,0 +1,8 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+brew "putty"
+cask "coccinellida"
+cask "cord"
+cask "cyberduck"
+cask "zterm"
