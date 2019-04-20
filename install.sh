@@ -68,7 +68,7 @@ brewBundle cloud "cloud tools"
 # PIP module needed for SoftLayer, not available in Brew
 pip3 install -U SoftLayer && echo " "
 
-brewBundle comm "communications and terminal tools"
+brewBundle comm "communications, remote terminal and VPN tools"
 brewBundle amuse "some amusements"
 brewBundle api "API tools"
 brewBundle git "git tools"
