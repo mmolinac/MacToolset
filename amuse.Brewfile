@@ -1,6 +1,6 @@
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
-cask "spotifree"
+cask "mutespotifyads"
 cask "spotify"
 cask "vlc"
