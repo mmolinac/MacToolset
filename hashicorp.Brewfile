@@ -1,7 +1,10 @@
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
-brew "terraform"
-brew "packer"
+tap "hashicorp/tap"
+brew "hashicorp/tap/terraform"
+brew "hashicorp/tap/packer"
 cask "vagrant"
+brew "vagrant-completion"
 cask "vagrant-manager"
+
